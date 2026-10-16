@@ -27,7 +27,9 @@ Evaluated on 2,756 held-out test images the model never saw during training.
 **What this tells me:** the model is conservative. It rarely raises a false alarm, but it misses about 11% of infected cells. For diagnosis that tradeoff is the wrong way round, so the next improvement is lowering the decision threshold to trade some specificity for higher sensitivity.
 
 ## Demo
-![Uploading image.png…]()
+<img width="2296" height="1069" alt="image" src="https://github.com/user-attachments/assets/1d6bc302-a7fb-4c69-9991-9d99da06a49b" />
+
+
 
 
 ## Run it
