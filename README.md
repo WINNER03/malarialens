@@ -27,7 +27,8 @@ Evaluated on 2,756 held-out test images the model never saw during training.
 **What this tells me:** the model is conservative. It rarely raises a false alarm, but it misses about 11% of infected cells. For diagnosis that tradeoff is the wrong way round, so the next improvement is lowering the decision threshold to trade some specificity for higher sensitivity.
 
 ## Demo
-![demo](demo.png)
+![Uploading image.png…]()
+
 
 ## Run it
 Open `MalariaLens.ipynb` in Google Colab, set the runtime to T4 GPU, then Run all.
